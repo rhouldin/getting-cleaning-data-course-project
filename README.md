@@ -32,6 +32,15 @@ to the original measurement names to reflect this.
     run_analysis.R              A R script for regenerating the condensed dataset from the
                                 original data.
 
+## Command for reading the data into R.
+
+    # Set the working directory to the location containing the CSV file.
+    setwd("path")
+
+    # Read the data into data frame 'df'.
+    df <- read.csv("UCI HAR Dataset Avg.csv")
+
+
 ## Instructions for recreating the condensed dataset.
 
 1. Clone this repository into a local directory.
