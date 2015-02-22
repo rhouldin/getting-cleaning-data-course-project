@@ -29,13 +29,14 @@ to the original measurement names to reflect this.
     UCI HAR Dataset Avg.csv     The file containing the condensed dataset.
     UCI HAR Dataset.zip         The original data files.
     codebook.txt                A description of the contents of the condensed dataset.
-    run_analysis.R              A R script for regenerating the condensed dataset from the original data.
+    run_analysis.R              A R script for regenerating the condensed dataset from the
+                                original data.
 
 ## Instructions for recreating the condensed dataset.
 
 1. Clone this repository into a local directory.
 
-2. Extract the contents of "UCI HAR Dataset.zip" in the local directory (e.g., via the "Extract here" option in WinZip or WinRAR.
+2. Extract the contents of "UCI HAR Dataset.zip" into the local directory (e.g., via the "Extract here" option in WinZip or WinRAR.
 
 3. Start R-Studio or R, and set the current working directory to the local directory containing the cloned files.
 
