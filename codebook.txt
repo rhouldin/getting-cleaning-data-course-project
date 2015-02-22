@@ -43,7 +43,7 @@ data, averaged over the particular combination of subject-ID and activity-ID
 that each record in this dataset represents.
 
 For more information on the data contained in the columns, see the 
-"features_info.txt" file in the original data.  That file contains
+file "features_info.txt" in the original data.  That file contains
 information on the original, unaveraged, columns.  Information for
 each column "XYZ-avg" below can be found by looking in that file for
 information on the original "XYZ" column.
